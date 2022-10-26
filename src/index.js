@@ -1,5 +1,6 @@
 import React from 'react';
 <<<<<<< HEAD
+<<<<<<< HEAD
 import ReactDOM from 'react-dom';
 import App from './App';
 
@@ -11,6 +12,9 @@ document.getElementById('root')
 );
 =======
 import ReactDOM from 'react-dom/client';
+=======
+import ReactDOM from 'react-dom';
+>>>>>>> abb862c (updates 1.2)
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
